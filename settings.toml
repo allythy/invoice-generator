@@ -1,0 +1,8 @@
+[default]
+SENDER_EMAIL = "send_test@test.com"
+RECIEVER_EMAIL = "reciever_test@test.com"
+NAME_SMTP = "smtp.test.com"
+PORT = 465
+FILE = "my_invoice.pdf"
+DAYS_WORKED= 30
+PAYMENT = "3000BRL"
